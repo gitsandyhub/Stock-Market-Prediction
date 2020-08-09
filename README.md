@@ -7,9 +7,9 @@ Linear Regression
 
 Ridge Regression
 
-Lasso
+Lasso Regression
 
-LARSLasso
+LARSLasso Regression
 
 Gradient Boosting Regressors
 
